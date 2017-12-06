@@ -7,6 +7,7 @@ The algorithm that is implemented in the program seperates the running word list
 EXAMPLE:
 
 Word List - hams, heat, runs, char
+
 Letter Guess: h
 
 Word Families
