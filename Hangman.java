@@ -12,7 +12,6 @@ public class Hangman {
 	public static void main(String[] args) throws FileNotFoundException, InterruptedException
 	{
 		File dictionary = new File("dictionary.txt");
-		//File dictionary = new File("C:\\Users\\212674282\\Desktop\\dictionary.txt");
 		Scanner scan = new Scanner(dictionary);
 		
 		System.out.println("------------------------------");
