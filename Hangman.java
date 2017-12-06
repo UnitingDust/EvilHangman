@@ -90,9 +90,7 @@ public class Hangman {
 				{
 					copy[j] = letter;
 					track++;
-					
 				}
-					
 			}
 			
 			if (track == 0)
